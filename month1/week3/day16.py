@@ -77,3 +77,10 @@ circle = Circle(3)
 circle.area()
 ract = reactangle(2,4 )
 ract.area()
+
+"""
+method overloading :
+    it is a process of creating same name menthod in a classs with different length of parameters
+    --> Default argument concept is used for method overloading
+    --> In reality method overloading is not acheived in python like c++, java
+"""
